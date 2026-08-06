@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+backend/temporary_projects/*
+!backend/temporary_projects/.gitkeep
+backend/generated_reports/*
+!backend/generated_reports/.gitkeep
